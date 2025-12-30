@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Sanjay
+**A passionate Full Stack Developer(MERN)**
 
+Email Me 👉 ✉️ **sanjayrana5113@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **Currently learning:** Advanced MERN,React Native, DSA in Java
+- 👯 **I’m looking to collaborate on:** Full-Stack Web Apps & Open-Source Projects
+- 🤔 **I’m looking for help with:** Scaling apps & best backend practices
+- 💬 **Ask me about:** React, Node.js, MongoDB, APIs, Git & GitHub
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayrana2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayrana5113@gmail.com) 
 
